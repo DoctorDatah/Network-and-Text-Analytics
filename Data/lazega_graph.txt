@@ -1,0 +1,2 @@
+"name" "description"
+"1" "Lazega Lawyers Network" "A subset of the data set from a network study of corporate law partnership carried out in a Northeastern US corporate law firm."
