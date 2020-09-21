@@ -25,6 +25,8 @@ graph_attr_from_df<-function(g,df) {
 parSave=par(no.readonly = TRUE)
 iSave=igraph_options(annotate.plot=T,vertex.size=15,edge.arrow.size=.5)
 #igraph_options(iSave)  #Back to the old values  
+
+PATH = "C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/"
 ###################################################################################
 # Processing 
 ###################################################################################
@@ -48,7 +50,8 @@ plot(bip, layout=layout_as_bipartite)
 #Back to defaults
 igraph_options(iSave)    
 par(parSave)
-save(bip,file="../data/bip.RData")
+save(bip, file="C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/bip.RData")
+# save(bip,file="../data/bip.RData")
 ###################################################################################
 # Problems
 ###################################################################################
@@ -87,13 +90,19 @@ make_graph(c(2,3,3,5,2,5))
 # Import and Export Network Data: Adjacency Matrices and Edgelists
 ###################################################################################
 #Load a previously created and saved on disk graph into R
-load("../data/g.RData")
+load(file="C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/g.RData")
+
+#load("../data/g.RData")
+set.seed(23);plot(g)
+g
+
 
 (aa=as_adj(g))
 graph_from_adjacency_matrix(aa,"undirected")
 
 par(mfrow=c(1,2))
 igraph_options(edge.arrow.size=.5,vertex.size=30) #Change the options
+
 ##Create a weighted graph from an adjacency matrix
 A=matrix(c(0,2,1,2,0,.5,1,.5,0),3)
 colnames(A)=c("Jon","Mary","Mike")   #Name the vertices
@@ -117,6 +126,7 @@ graph_from_edgelist(ae,directed=F)
 
 par(mfrow=c(1,3))
 igraph_options(edge.arrow.size=.5,vertex.size=20) #Change the options
+
 #Create an unnamed digraph from an edgelist
 (A=matrix(c(1,2,3,4,3,4,6,7,7,3),ncol=2,byrow=T))
 (g2=graph_from_edgelist(A))
@@ -144,14 +154,15 @@ par(parSave)
 (g2=graph_attr_from_df(g2,dfgg))
 
 #Obtain data from Excel
-(gtEdges=read_excel("../data/test.xlsx",sheet=1))
-(gtVertices=read_excel("../data/test.xlsx",2))
-(gtGraph=read_excel("../data/test.xlsx",3))
+(gtEdges=read_excel("C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/test.xlsx",sheet=1))
+(gtVertices=read_excel("C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/test.xlsx",2))
+(gtGraph=read_excel("C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/test.xlsx",3))
 #Create an undirected graph
 gt=graph_from_data_frame(gtEdges,directed=F,gtVertices)
 (gt=graph_attr_from_df(gt,gtGraph))
 igraph_options(edge.arrow.size=.5,vertex.size=40) #Change the options
 set.seed(23);plot(gt,main=gt$name)
+
 #Create a digraph
 gt=graph_from_data_frame(gtEdges,T,gtVertices)
 (gt=graph_attr_from_df(gt,gtGraph))
@@ -159,23 +170,23 @@ set.seed(23);plot(gt,main=gt$name)
 igraph_options(iSave)
 
 #Graph from text files
-laze=read.table("../data/lazega_edges.txt")
-laza=read.table("../data/lazega_vertices.txt",header=T)
-lazg=read.table("../data/lazega_graph.txt",header=T)
+laze=read.table("C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/lazega_edges.txt")
+laza=read.table("C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/lazega_vertices.txt",header=T)
+lazg=read.table("C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/lazega_graph.txt",header=T)
 lazega=graph_from_data_frame(laze,F,laza)
 (lazega=graph_attr_from_df(lazega,lazg))
-save(lazega,file="../data/lazega.RData")
+save(lazega,file= paste(PATH, "lazega.RData"))
 ###################################################################################
 # Import and Export Network Data: Other Methods
 ###################################################################################
 #Write a graph to an external file
 ?write_graph
 #Edge list is the default, but this writes ids minus 1, no names
-write_graph(g,"../data/ggraph.txt")         
+write_graph(g, paste(PATH,"ggraph.txt"))        
 #This way we do get vertex names, and also the weights are stored
-write_graph(g,"../data/ggraph.txt","ncol")
+write_graph(g, paste(PATH,"ggraph.txt"),  "ncol")
 #Import a graph from an external file with names and weights
-read_graph("../data/ggraph.txt","ncol",directed=F)
+read_graph(  paste(PATH,"ggraph.txt"), "ncol",   directed=F)
 
 #Graphs available in igraphdata
 data(package="igraphdata")
@@ -196,8 +207,8 @@ set.seed(23);plot(g2)
 (co=components(g2))       #Now we have three components
 set.seed(23);plot(g2, vertex.color=co$membership)
 
-#For a digraph
-load("../data/gd.RData")           #Load a digraph
+#For a digraph 
+load("C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/gd.RData")         #Load a digraph
 set.seed(23);plot(gd)
 is_connected(gd,mode="weak")       #Weakly connected
 is_connected(gd,mode="strong")     #Strongly connected
@@ -235,3 +246,4 @@ degree(g2,"house",mode="in")
 #There are no attributes for vertices that we do not already know of,
 #nor are there any attributes for the graph available.
 igraph_options(iSave)
+
