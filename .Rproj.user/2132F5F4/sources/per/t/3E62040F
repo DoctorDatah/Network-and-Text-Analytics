@@ -1,0 +1,25 @@
+{
+    "id": "3E62040F",
+    "path": "~/GitHub/Network-and-Text-Analytics-/R-Code/lecture1.R",
+    "project_path": "R-Code/lecture1.R",
+    "type": "r_source",
+    "hash": "2542841874",
+    "contents": "",
+    "dirty": false,
+    "created": 1601911531921.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "129,0",
+        "scrollLine": "119",
+        "notebook_format": "html_document"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601911878,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601911878616,
+    "read_only": false,
+    "read_only_alternatives": []
+}

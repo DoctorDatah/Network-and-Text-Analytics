@@ -75,7 +75,6 @@ par(parSave)
 ?degree
 ?igraph::degree
 
-load("C:/Users/Malik/Documents/GitHub/Network-and-Text-Analytics-/Data/karate.RData")
 #Load karate network
 summary(karate)
 set.seed(23); plot(karate)
