@@ -1,0 +1,972 @@
+PMID- 29374807
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180128
+IS  - 1534-3170 (Electronic)
+IS  - 1523-3782 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2018 Jan 27
+TI  - The Sacubitril/Valsartan, a First-in-Class, Angiotensin Receptor Neprilysin
+      Inhibitor (ARNI): Potential Uses in Hypertension, Heart Failure, and Beyond.
+PG  - 5
+LID - 10.1007/s11886-018-0944-4 [doi]
+AB  - PURPOSE OF REVIEW: Sacubitril/valsartan (LCZ696) is a first-in-class,
+      novel-acting, angiotensin receptor neprilysin inhibitor (ARNI) that provides
+      inhibition of neprilysin and the angiotensin (AT1) receptor. A recent clinical
+      trial PRARDIGM-HF demonstrated that this drug is superior to
+      angiotensin-converting enzyme (ACE) inhibitors for improving the prognosis in the
+      patients with heart failure, and this has resulted in the drug being included in 
+      clinical practice guidelines for the management of heart failure with reduced
+      ejection fraction (EF). In addition, sacubitril/valsartan has been developed for 
+      the management of hypertension, because it has unique anti-aging properties.
+      However, the clinical evidence of mechanism has not been well validated. RECENT
+      FINDINGS: A recent mechanistic study PARAMETER demonstrated that
+      sacubitril/valsartan (LCZ696) is superior to angiotensin receptor blocker (ARB)
+      monotherapy for reducing central aortic systolic pressure (primary endpoint) as
+      well as for central aortic pulse pressure (secondary endpoint) and nocturnal BP
+      preferentially. Considering these results, sacubitril/valsartan may be an
+      attractive therapeutic agent to treat the elderly with age-related hypertension
+      phenotypes, such as drug-uncontrolled (resistant) hypertension characterized as
+      systolic (central) hypertension (structural hypertension) and/or nocturnal
+      hypertension (salt-sensitive hypertension). These are the high-risk hypertension 
+      phenotypes which are prone to develop heart failure with preserved EF and chronic
+      kidney disease. Sacubitril/valsartan may be effective to suppress the age-related
+      continuum from hypertension to heart failure, and it could be clinically useful
+      not only for secondary prevention, but also as primary prevention of heart
+      failure in uncontrolled elderly hypertensive patients.
+FAU - Kario, Kazuomi
+AU  - Kario K
+AD  - Division of Cardiovascular Medicine, Department of Medicine, Jichi Medical
+      University School of Medicine (JMU), JMU Center of Excellence, Community Medicine
+      Cardiovascular Research and Development (JCARD), Jichi, Japan.
+      kkario@jichi.ac.jp.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180127
+PL  - United States
+TA  - Curr Cardiol Rep
+JT  - Current cardiology reports
+JID - 100888969
+OTO - NOTNLM
+OT  - Angiotensin receptor neprilysin inhibitor (ARNI)
+OT  - Cardiovascular continuum
+OT  - Central blood pressure
+OT  - Heart failure
+OT  - Nocturnal hypertension
+OT  - Resistant hypertension
+OT  - Sacubitril/valsartan
+OT  - Systolic hypertension
+EDAT- 2018/01/29 06:00
+MHDA- 2018/01/29 06:00
+CRDT- 2018/01/29 06:00
+PHST- 2018/01/29 06:00 [entrez]
+PHST- 2018/01/29 06:00 [pubmed]
+PHST- 2018/01/29 06:00 [medline]
+AID - 10.1007/s11886-018-0944-4 [doi]
+AID - 10.1007/s11886-018-0944-4 [pii]
+PST - epublish
+SO  - Curr Cardiol Rep. 2018 Jan 27;20(1):5. doi: 10.1007/s11886-018-0944-4.
+
+PMID- 29372615
+OWN - NLM
+STAT- Publisher
+LR  - 20180126
+IS  - 1747-0803 (Electronic)
+IS  - 1747-079X (Linking)
+DP  - 2018 Jan 25
+TI  - Pattern of inpatient pediatric cardiology consultations in sub-Saharan Africa.
+LID - 10.1111/chd.12573 [doi]
+AB  - Malawi is one of the poorest nations in the world, ranked 151st among 195
+      countries by the World Bank, with an under-5-year mortality rate of 63 per 1000
+      live births. There are no previous studies describing the spectrum of inpatient
+      pediatric cardiology consultations in sub-Saharan Africa. A descriptive cohort
+      study was performed at Kamuzu Central Hospital (KCH), a tertiary care hospital in
+      Lilongwe, Malawi. Demographic, anthropometric, and clinical information for all
+      cardiology consults patients aged 0-18 years admitted to the children's wards
+      over a period of 1 month was reviewed. Seventy-three consults and 69
+      echocardiograms were performed on 71 patients (35 males, 38 females). The median 
+      (IQR) age was 3.1 years (9 months-10.5 years). About 53% (39/73) had failure to
+      thrive, 4.1% (3/73) were sero-reactive for HIV and 100% (73/73) were fully
+      immunized for age per the Expanded Program on Immunization schedule. Seventy-four
+      percent of the echocardiograms were abnormal, with 34.8% (24/69) having
+      congenital heart disease (CHD) and 18.8% (13/69) having acquired heart disease
+      (AHD) with preserved cardiac function. Among CHD, 10.1% (7/69) had cyanotic CHD
+      and 24.6% (17/769 had acyanotic CHD. Among AHD, 10.1% (7/69) had rheumatic heart 
+      disease with preserved cardiac function. Symptomatic systolic heart failure (HF) 
+      with ejection fraction <50%, was found in 20.3% (14/69), and pulmonary
+      hypertension was diagnosed in 10.1% (7/69). Overall admission mortality was 5.5% 
+      (4/73). Three patients left the hospital against medical advice. None of the
+      patients with systolic HF had CHD. There was no significant association of HIV,
+      gender, or failure to thrive on presence of systolic HF. This is the first report
+      describing the spectrum of pediatric cardiology consults in an inpatient setting 
+      in Malawi. There was an unexpectedly high proportion of CHD and systolic HF.
+      Further studies should be conducted to explore the implications and potential
+      causes of these findings.
+CI  - (c) 2018 Wiley Periodicals, Inc.
+FAU - Puri, Kriti
+AU  - Puri K
+AUID- ORCID: http://orcid.org/0000-0001-7783-2655
+AD  - Lillie Frank Abercrombie Section of Pediatric Cardiology, Department of
+      Pediatrics, Baylor College of Medicine and Texas Children's Hospital, Houston,
+      Texas, USA.
+FAU - Kazembe, Peter
+AU  - Kazembe P
+AD  - Baylor College of Medicine, Children's Foundation Malawi, Lilongwe, Malawi.
+FAU - Mkaliainga, Treasure
+AU  - Mkaliainga T
+AD  - Department of Pediatrics, Kamuzu Central Hospital, Lilongwe, Malawi.
+FAU - Chiume, Msandeni
+AU  - Chiume M
+AD  - Department of Pediatrics, Kamuzu Central Hospital, Lilongwe, Malawi.
+FAU - Cabrera, Antonio G
+AU  - Cabrera AG
+AD  - Lillie Frank Abercrombie Section of Pediatric Cardiology, Department of
+      Pediatrics, Baylor College of Medicine and Texas Children's Hospital, Houston,
+      Texas, USA.
+FAU - Sims Sanyahumbi, Amy
+AU  - Sims Sanyahumbi A
+AD  - Lillie Frank Abercrombie Section of Pediatric Cardiology, Department of
+      Pediatrics, Baylor College of Medicine and Texas Children's Hospital, Houston,
+      Texas, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20180125
+PL  - United States
+TA  - Congenit Heart Dis
+JT  - Congenital heart disease
+JID - 101256510
+OTO - NOTNLM
+OT  - Africa
+OT  - echocardiography
+OT  - global health
+OT  - pediatric cardiology
+OT  - resource-limited
+EDAT- 2018/01/27 06:00
+MHDA- 2018/01/27 06:00
+CRDT- 2018/01/27 06:00
+PHST- 2017/11/28 00:00 [received]
+PHST- 2017/12/10 00:00 [accepted]
+PHST- 2018/01/27 06:00 [entrez]
+PHST- 2018/01/27 06:00 [pubmed]
+PHST- 2018/01/27 06:00 [medline]
+AID - 10.1111/chd.12573 [doi]
+PST - aheadofprint
+SO  - Congenit Heart Dis. 2018 Jan 25. doi: 10.1111/chd.12573.
+
+PMID- 29372448
+OWN - NLM
+STAT- Publisher
+LR  - 20180126
+IS  - 1573-7241 (Electronic)
+IS  - 0920-3206 (Linking)
+DP  - 2018 Jan 25
+TI  - New Therapeutic Approaches for the Treatment of Hyperkalemia in Patients Treated 
+      with Renin-Angiotensin-Aldosterone System Inhibitors.
+LID - 10.1007/s10557-017-6767-5 [doi]
+AB  - Hyperkalemia (serum potassium > 5.5 mEq/L) is a common clinical problem in
+      patients with chronic kidney disease, hypertension, diabetes, and heart failure. 
+      It can result from increased K(+) intake, impaired distribution between
+      intracellular and extracellular spaces, and most frequently, decreased renal
+      excretion. Patients at the highest risk of hyperkalemia are treated with
+      renin-angiotensin-aldosterone system inhibitors (RAASIs) as they improve
+      cardiovascular and renal outcomes and are strongly recommended in clinical
+      guidelines. However, RAASIs cause or increase the risk of hyperkalemia, a key
+      limitation to fully titrate RAASIs in patients who are most likely to benefit
+      from treatment. Until recently, drugs for the treatment of hyperkalemia presented
+      limited efficacy and/or safety concerns and there was an unmet need of new drugs 
+      to control hyperkalemia while maintaining RAASI therapy. We provide an overview
+      of the mechanisms involved in K(+) homeostasis and the epidemiology and
+      management of hyperkalemia as a complication in cardiovascular patients and,
+      finally, analyze the efficacy and safety of two new polymer-based, non-systemic
+      agents, patiromer calcium and sodium zirconium cyclosilicate (ZS-9), designed to 
+      increase fecal K(+) loss and to normalize elevated serum K(+) levels and
+      chronically maintain K(+) homeostasis in hyperkalemic patients treated with
+      RAASIs.
+FAU - Tamargo, Juan
+AU  - Tamargo J
+AD  - Department of Pharmacology, School of Medicine, Instituto de Investigacion
+      Sanitaria Gregorio Maranon, CIBERCV, Universidad Complutense, 28040, Madrid,
+      Spain. jtamargo@med.ucm.es.
+FAU - Caballero, Ricardo
+AU  - Caballero R
+AD  - Department of Pharmacology, School of Medicine, Instituto de Investigacion
+      Sanitaria Gregorio Maranon, CIBERCV, Universidad Complutense, 28040, Madrid,
+      Spain.
+FAU - Delpon, Eva
+AU  - Delpon E
+AD  - Department of Pharmacology, School of Medicine, Instituto de Investigacion
+      Sanitaria Gregorio Maranon, CIBERCV, Universidad Complutense, 28040, Madrid,
+      Spain.
+LA  - eng
+GR  - PI16/00398/Instituto de Salud Carlos III/United States
+GR  - CB16/11/00303/Instituto de Salud Carlos III/United States
+GR  - SAF2014-58769-P/Ministerio de Economia y Competitividad/United States
+GR  - B2017/BMD-3738/Consejeria de Educacion e Investigacionporte, Comunidad de Madrid 
+      (ES)/United States
+PT  - Journal Article
+DEP - 20180125
+PL  - United States
+TA  - Cardiovasc Drugs Ther
+JT  - Cardiovascular drugs and therapy
+JID - 8712220
+OTO - NOTNLM
+OT  - Chronic kidney disease
+OT  - Heart failure
+OT  - Hyperkalemia
+OT  - Patiromer sorbitex calcium
+OT  - Potassium binders
+OT  - Renin-angiotensin-aldosterone inhibitors
+OT  - Sodium zirconium cyclosilicate
+EDAT- 2018/01/27 06:00
+MHDA- 2018/01/27 06:00
+CRDT- 2018/01/27 06:00
+PHST- 2018/01/27 06:00 [entrez]
+PHST- 2018/01/27 06:00 [pubmed]
+PHST- 2018/01/27 06:00 [medline]
+AID - 10.1007/s10557-017-6767-5 [doi]
+AID - 10.1007/s10557-017-6767-5 [pii]
+PST - aheadofprint
+SO  - Cardiovasc Drugs Ther. 2018 Jan 25. pii: 10.1007/s10557-017-6767-5. doi:
+      10.1007/s10557-017-6767-5.
+
+PMID- 29371870
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20180128
+IS  - 1735-3955 (Print)
+IS  - 1735-3955 (Linking)
+VI  - 13
+IP  - 5
+DP  - 2017 Sep
+TI  - Persian Registry Of cardioVascular diseasE (PROVE): Design and methodology.
+PG  - 236-244
+AB  - BACKGROUND: Our aim was to create and establish a database called "Persian
+      Registry Of cardioVascular diseasE (PROVE)" in order to be used for future
+      research and in addition, as a tool to develop national guidelines for diagnosis,
+      treatment, and prevention of cardiovascular disease (CVD). In this paper, the
+      design and methodology of the PROVE pilot study will be discussed, launched in
+      Isfahan, Iran, in 2015-2016. METHODS: Through establishing PROVE, patients' data 
+      were collected from hospitals and outpatient clinics prospectively or
+      retrospectively and followed up for a maximum of three years based on the type of
+      CVDs. The inclusion criteria were as patients with acute coronary syndrome (ACS),
+      ST elevation myocardial infarction (STEMI), stroke, atrial fibrillation (AF),
+      heart failure (HF), congenital heart disease (CHD), percutaneous coronary
+      intervention (PCI), and chronic ischemic cardiovascular disease (CICD). Specific 
+      protocols, questionnaires, and glossaries were developed for each registry. In
+      order to ensure the validation of the protocols, questionnaires, data collection,
+      management, and analysis, a well-established quality control (QC) protocol was
+      developed and implemented. Data confidentiality was considered. RESULTS: In order
+      to register patients with ACS, STEMI, stroke, HF, PCI, and CICD, the hospital
+      recorded data were used, whereas, in case of AF and CHD registries, the data were
+      collected from hospitals and outpatient clinics. During the pilot phase of the
+      study in Isfahan, from March 2015 to September 2016, 9427 patients were
+      registered as ACS including 809 as STEMI, 1195 patients with HF, 363 with AF, 761
+      with stroke, 1136 with CHD, 1200 with PCI, and 9 with CICD. Data collection and
+      management were performed under the supervision of the QC group. CONCLUSION:
+      PROVE was developed and implemented in Isfahan as a pilot study, in order to be
+      implemented at national level in future. It provides a valuable source of valid
+      data that could be used for future research, re-evaluation of current CVD
+      management and more specifically, gap analysis and as a tool for assessment of
+      the type of CVDs, prevention, treatment, and control by health care decision
+      makers.
+FAU - Givi, Mahshid
+AU  - Givi M
+AD  - Heart Failure Research Center, Cardiovascular Research Institute, Isfahan
+      University of Medical Sciences, Isfahan, Iran.
+FAU - Sarrafzadegan, Nizal
+AU  - Sarrafzadegan N
+AD  - Isfahan Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Garakyaraghi, Mohammad
+AU  - Garakyaraghi M
+AD  - Heart Failure Research Center, Cardiovascular Research Institute, Isfahan
+      University of Medical Sciences, Isfahan, Iran.
+FAU - Yadegarfar, Ghasem
+AU  - Yadegarfar G
+AD  - Heart Failure Research Center, Cardiovascular Research Institute AND Department
+      of Epidemiology and Biostatic, School of Public Health, Isfahan University of
+      Medical Sciences, Isfahan, Iran.
+FAU - Sadeghi, Masoumeh
+AU  - Sadeghi M
+AD  - Cardiac Rehabilitation Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Khosravi, Alireza
+AU  - Khosravi A
+AD  - Hypertension Research Center AND Cardiac Intervention Research Center,
+      Cardiovascular Research Institute, Isfahan University of Medical Sciences,
+      Isfahan, Iran.
+FAU - Azhari, Amir Hossein
+AU  - Azhari AH
+AD  - Heart Failure Research Center, Cardiovascular Research Institute, Isfahan
+      University of Medical Sciences, Isfahan, Iran.
+FAU - Samienasab, Mohammad Reza
+AU  - Samienasab MR
+AD  - Isfahan Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Shafie, Davood
+AU  - Shafie D
+AD  - Heart Failure Research Center, Cardiovascular Research Institute, Isfahan
+      University of Medical Sciences, Isfahan, Iran.
+FAU - Saadatnia, Mohammad
+AU  - Saadatnia M
+AD  - Isfahan Neurosciences Research Center, Isfahan University of Medical Sciences,
+      Isfahan, Iran.
+FAU - Roohafza, Hamidreza
+AU  - Roohafza H
+AD  - Isfahan Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Paydari, Navid
+AU  - Paydari N
+AD  - Isfahan Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Soleimani, Azam
+AU  - Soleimani A
+AD  - Cardiac Rehabilitation Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Hosseinzadeh, Mohsen
+AU  - Hosseinzadeh M
+AD  - Pediatric Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Ahmadi, Seyed Abdulah
+AU  - Ahmadi SA
+AD  - Isfahan Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Dehghani, Leila
+AU  - Dehghani L
+AD  - School of Advanced Technologies in Medicine, Shahid Beheshti University of
+      Medical Sciences, Tehran, Iran.
+FAU - Najafian, Jamshid
+AU  - Najafian J
+AD  - Isfahan Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Andalib, Elham
+AU  - Andalib E
+AD  - Isfahan Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+FAU - Shahabi, Javad
+AU  - Shahabi J
+AD  - Heart Failure Research Center, Cardiovascular Research Institute, Isfahan
+      University of Medical Sciences, Isfahan, Iran.
+FAU - Sabri, Mohammad Reza
+AU  - Sabri MR
+AD  - Pediatric Cardiovascular Research Center, Cardiovascular Research Institute,
+      Isfahan University of Medical Sciences, Isfahan, Iran.
+LA  - eng
+PT  - Journal Article
+PL  - Iran
+TA  - ARYA Atheroscler
+JT  - ARYA atherosclerosis
+JID - 101487337
+PMC - PMC5774796
+OTO - NOTNLM
+OT  - Cardiovascular Disease
+OT  - Data Collection
+OT  - Disease Management
+OT  - Registries
+EDAT- 2018/01/27 06:00
+MHDA- 2018/01/27 06:01
+CRDT- 2018/01/27 06:00
+PHST- 2018/01/27 06:00 [entrez]
+PHST- 2018/01/27 06:00 [pubmed]
+PHST- 2018/01/27 06:01 [medline]
+PST - ppublish
+SO  - ARYA Atheroscler. 2017 Sep;13(5):236-244.
+
+PMID- 29371598
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180126
+IS  - 2041-4889 (Electronic)
+VI  - 9
+IP  - 2
+DP  - 2018 Jan 25
+TI  - Givinostat reduces adverse cardiac remodeling through regulating fibroblasts
+      activation.
+PG  - 108
+LID - 10.1038/s41419-017-0174-5 [doi]
+AB  - Cardiovascular diseases (CVDs) are a major burden on the healthcare system:
+      indeed, over two million new cases are diagnosed every year worldwide.
+      Unfortunately, important drawbacks for the treatment of these patients derive
+      from our current inability to stop the structural alterations that lead to heart 
+      failure, the common endpoint of many CVDs. In this scenario, a better
+      understanding of the role of epigenetics - hereditable changes of chromatin that 
+      do not alter the DNA sequence itself - is warranted. To date, hyperacetylation of
+      histones has been reported in hypertension and myocardial infarction, but the use
+      of inhibitors for treating CVDs remains limited. Here, we studied the effect of
+      the histone deacetylase inhibitor Givinostat on a mouse model of acute myocardial
+      infarction. We found that it contributes to decrease endothelial-to-mesenchymal
+      transition and inflammation, reducing cardiac fibrosis and improving heart
+      performance and protecting the blood vessels from apoptosis through the
+      modulatory effect of cardiac fibroblasts on endothelial cells. Therefore,
+      Givinostat may have potential for the treatment of CVDs.
+FAU - Milan, Marika
+AU  - Milan M
+AD  - Institute of Cell Biology and Neurobiology (IBCN), National Research Council of
+      Italy (CNR), Monterotondo Scalo, Rome, 00015, Italy.
+FAU - Pace, Valentina
+AU  - Pace V
+AD  - Institute of Cell Biology and Neurobiology (IBCN), National Research Council of
+      Italy (CNR), Monterotondo Scalo, Rome, 00015, Italy.
+FAU - Maiullari, Fabio
+AU  - Maiullari F
+AD  - Institute of Cell Biology and Neurobiology (IBCN), National Research Council of
+      Italy (CNR), Monterotondo Scalo, Rome, 00015, Italy.
+AD  - Operational Research Unit, Fondazione di Ricerca e Cura Giovanni Paolo II, Largo 
+      Gemelli 1, Campobasso, Italy.
+FAU - Chirivi, Maila
+AU  - Chirivi M
+AD  - Institute of Cell Biology and Neurobiology (IBCN), National Research Council of
+      Italy (CNR), Monterotondo Scalo, Rome, 00015, Italy.
+FAU - Baci, Denisa
+AU  - Baci D
+AD  - Institute of Cell Biology and Neurobiology (IBCN), National Research Council of
+      Italy (CNR), Monterotondo Scalo, Rome, 00015, Italy.
+FAU - Maiullari, Silvia
+AU  - Maiullari S
+AD  - Institute of Cell Biology and Neurobiology (IBCN), National Research Council of
+      Italy (CNR), Monterotondo Scalo, Rome, 00015, Italy.
+FAU - Madaro, Luca
+AU  - Madaro L
+AD  - IRCCS Fondazione Santa Lucia, Rome, 00142, Italy.
+FAU - Maccari, Sonia
+AU  - Maccari S
+AD  - Centro di Riferimento per la Medicina di Genere Istituto Superiore di Sanita
+      Viale Regina Elena, 299, Roma, Italy.
+FAU - Stati, Tonino
+AU  - Stati T
+AD  - Centro di Riferimento per la Medicina di Genere Istituto Superiore di Sanita
+      Viale Regina Elena, 299, Roma, Italy.
+FAU - Marano, Giuseppe
+AU  - Marano G
+AD  - Centro di Riferimento per la Medicina di Genere Istituto Superiore di Sanita
+      Viale Regina Elena, 299, Roma, Italy.
+FAU - Frati, Giacomo
+AU  - Frati G
+AD  - Department of Medical Surgical Sciences and Biotechnologies, Sapienza University 
+      of Rome, 04100, Latina, Italy.
+AD  - Department of AngioCardioNeurology, IRCCS NeuroMed, 86077, Pozzilli (IS), Italy.
+FAU - Puri, Pier Lorenzo
+AU  - Puri PL
+AD  - Development, Aging and Regeneration Program, Sanford Burnham Prebys Medical
+      Discovery Institute, La Jolla, CA, 92037, USA.
+FAU - De Falco, Elena
+AU  - De Falco E
+AUID- ORCID: http://orcid.org/0000-0002-5220-0587
+AD  - Department of Medical Surgical Sciences and Biotechnologies, Sapienza University 
+      of Rome, 04100, Latina, Italy.
+FAU - Bearzi, Claudia
+AU  - Bearzi C
+AD  - Institute of Cell Biology and Neurobiology (IBCN), National Research Council of
+      Italy (CNR), Monterotondo Scalo, Rome, 00015, Italy. claudia.bearzi@cnr.it.
+FAU - Rizzi, Roberto
+AU  - Rizzi R
+AD  - Institute of Cell Biology and Neurobiology (IBCN), National Research Council of
+      Italy (CNR), Monterotondo Scalo, Rome, 00015, Italy. roberto.rizzi@cnr.it.
+AD  - Operational Research Unit, Fondazione di Ricerca e Cura Giovanni Paolo II, Largo 
+      Gemelli 1, Campobasso, Italy. roberto.rizzi@cnr.it.
+LA  - eng
+PT  - Journal Article
+DEP - 20180125
+PL  - England
+TA  - Cell Death Dis
+JT  - Cell death & disease
+JID - 101524092
+EDAT- 2018/01/27 06:00
+MHDA- 2018/01/27 06:00
+CRDT- 2018/01/27 06:00
+PHST- 2017/09/29 00:00 [received]
+PHST- 2017/11/13 00:00 [accepted]
+PHST- 2017/11/10 00:00 [revised]
+PHST- 2018/01/27 06:00 [entrez]
+PHST- 2018/01/27 06:00 [pubmed]
+PHST- 2018/01/27 06:00 [medline]
+AID - 10.1038/s41419-017-0174-5 [doi]
+AID - 10.1038/s41419-017-0174-5 [pii]
+PST - epublish
+SO  - Cell Death Dis. 2018 Jan 25;9(2):108. doi: 10.1038/s41419-017-0174-5.
+
+PMID- 29370477
+OWN - NLM
+STAT- Publisher
+LR  - 20180125
+IS  - 1751-7176 (Electronic)
+IS  - 1524-6175 (Linking)
+DP  - 2018 Jan 25
+TI  - Prevalence and clinical outcomes of white-coat and masked hypertension: Analysis 
+      of a large ambulatory blood pressure database.
+LID - 10.1111/jch.13181 [doi]
+AB  - The aim of this study was to analyze prevalence and clinical outcomes of the
+      following clinical conditions: normotension (NT; clinic BP < 140/90 mm Hg;
+      24-hour BP < 130/80 mm Hg), white-coat hypertension (WCHT; clinic BP >/= 140
+      and/or >/=90 mm Hg; 24-hour BP < 130/80 mm Hg), masked hypertension (MHT; clinic 
+      BP < 140/90 mm Hg; 24-hour BP >/= 130 and/or >/=80 mm Hg), and sustained
+      hypertension (SHT; clinic BP >/= 140 and/or >/=90 mm Hg; 24-hour BP >/= 130
+      and/or >/=80 mm Hg) in a large cohort of adult untreated individuals. Systematic 
+      research throughout the medical database of Regione Lazio (Italy) was performed
+      to estimate incidence of myocardial infarction (MI), stroke, and hospitalizations
+      for HT and heart failure (HF). Among a total study sample of 2209 outpatients,
+      377 (17.1%) had NT, 351 (15.9%) had WCHT, 149 (6.7%) had MHT, and 1332 had
+      (60.3%) SHT. During an average follow-up of 120.1 +/- 73.9 months, WCHT was
+      associated with increased risk of hospitalization for HT (OR 95% CI: 1.927
+      [1.233-3.013]; P = .04) and HF (OR 95% CI: 3.449 [1.321-9.007]; P = .011). MHT
+      was associated with an increased risk of MI (OR 95% CI: 5.062 [2.218-11.550]; P <
+      .001), hospitalization for HT (OR 95% CI: 2.553 [1.446-4.508]; P = .001), and for
+      HF (OR 95% CI: 4.214 [1.449-12.249]; P = .008). These effects remained
+      statistically significant event after corrections for confounding factors
+      including age, BMI, gender, smoking, dyslipidaemia, diabetes, and presence of
+      antihypertensive therapies.
+CI  - (c)2018 Wiley Periodicals, Inc.
+FAU - Tocci, Giuliano
+AU  - Tocci G
+AUID- ORCID: http://orcid.org/0000-0002-0635-4921
+AD  - Division of Cardiology, Department of Clinical and Molecular Medicine, Faculty of
+      Medicine and Psychology, Sant'Andrea Hospital University of Rome Sapienza, Rome, 
+      Italy.
+AD  - IRCCS Neuromed, Pozzilli, Italy.
+FAU - Presta, Vivianne
+AU  - Presta V
+AD  - Division of Cardiology, Department of Clinical and Molecular Medicine, Faculty of
+      Medicine and Psychology, Sant'Andrea Hospital University of Rome Sapienza, Rome, 
+      Italy.
+FAU - Figliuzzi, Ilaria
+AU  - Figliuzzi I
+AD  - Division of Cardiology, Department of Clinical and Molecular Medicine, Faculty of
+      Medicine and Psychology, Sant'Andrea Hospital University of Rome Sapienza, Rome, 
+      Italy.
+FAU - Attalla El Halabieh, Nadia
+AU  - Attalla El Halabieh N
+AD  - Division of Cardiology, Department of Clinical and Molecular Medicine, Faculty of
+      Medicine and Psychology, Sant'Andrea Hospital University of Rome Sapienza, Rome, 
+      Italy.
+FAU - Battistoni, Allegra
+AU  - Battistoni A
+AD  - Division of Cardiology, Department of Clinical and Molecular Medicine, Faculty of
+      Medicine and Psychology, Sant'Andrea Hospital University of Rome Sapienza, Rome, 
+      Italy.
+FAU - Coluccia, Roberta
+AU  - Coluccia R
+AD  - IRCCS Neuromed, Pozzilli, Italy.
+FAU - D'Agostino, Michela
+AU  - D'Agostino M
+AD  - Division of Cardiology, Department of Clinical and Molecular Medicine, Faculty of
+      Medicine and Psychology, Sant'Andrea Hospital University of Rome Sapienza, Rome, 
+      Italy.
+FAU - Ferrucci, Andrea
+AU  - Ferrucci A
+AD  - Division of Cardiology, Department of Clinical and Molecular Medicine, Faculty of
+      Medicine and Psychology, Sant'Andrea Hospital University of Rome Sapienza, Rome, 
+      Italy.
+FAU - Volpe, Massimo
+AU  - Volpe M
+AD  - Division of Cardiology, Department of Clinical and Molecular Medicine, Faculty of
+      Medicine and Psychology, Sant'Andrea Hospital University of Rome Sapienza, Rome, 
+      Italy.
+AD  - IRCCS Neuromed, Pozzilli, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20180125
+PL  - United States
+TA  - J Clin Hypertens (Greenwich)
+JT  - Journal of clinical hypertension (Greenwich, Conn.)
+JID - 100888554
+OTO - NOTNLM
+OT  - ambulatory blood pressure monitoring
+OT  - hospitalizations
+OT  - masked hypertension
+OT  - myocardial infarction
+OT  - stroke
+OT  - sustained hypertension
+OT  - white-coat hypertension
+EDAT- 2018/01/26 06:00
+MHDA- 2018/01/26 06:00
+CRDT- 2018/01/26 06:00
+PHST- 2017/07/16 00:00 [received]
+PHST- 2017/09/04 00:00 [revised]
+PHST- 2017/09/22 00:00 [accepted]
+PHST- 2018/01/26 06:00 [entrez]
+PHST- 2018/01/26 06:00 [pubmed]
+PHST- 2018/01/26 06:00 [medline]
+AID - 10.1111/jch.13181 [doi]
+PST - aheadofprint
+SO  - J Clin Hypertens (Greenwich). 2018 Jan 25. doi: 10.1111/jch.13181.
+
+PMID- 29370476
+OWN - NLM
+STAT- Publisher
+LR  - 20180125
+IS  - 1751-7176 (Electronic)
+IS  - 1524-6175 (Linking)
+DP  - 2018 Jan 25
+TI  - Right heart remodeling induced by arterial hypertension: Could strain assessment 
+      be helpful?
+LID - 10.1111/jch.13186 [doi]
+AB  - Left ventricular structural and functional changes in patients with arterial
+      hypertension are well established. However, the influence of arterial
+      hypertension on right ventricular (RV) remodeling is still being investigated.
+      The introduction of strain analysis provided an insight into RV function and
+      mechanics. Previous research has demonstrated the predictive value of RV
+      longitudinal strain in patients with various cardiovascular conditions, such as
+      pulmonary hypertension, heart failure, congenital heart diseases, and valvular
+      disease. Nowadays, we are aware of the fact that conventional echocardiographic
+      methods usually do not provide necessary information about RV dysfunction in
+      patients with arterial hypertension, which is why the evaluation of new
+      parameters that could detect RV subtle changes in hypertension is essential. The 
+      present review article is an overview of the main principles of RV deformation
+      and a summary of the current knowledge and clinical significance of RV strain in 
+      patients with arterial hypertension.
+CI  - (c)2018 Wiley Periodicals, Inc.
+FAU - Tadic, Marijana
+AU  - Tadic M
+AUID- ORCID: http://orcid.org/0000-0002-6235-5152
+AD  - Department of Internal Medicine and Cardiology, Charite-Universitatsmedizin
+      Berlin, Berlin, Germany.
+FAU - Cuspidi, Cesare
+AU  - Cuspidi C
+AUID- ORCID: http://orcid.org/0000-0002-7689-478X
+AD  - Clinical Research Unit, Istituto Auxologico Italiano, University of
+      Milan-Bicocca, Meda, Italy.
+FAU - Bombelli, Michele
+AU  - Bombelli M
+AD  - Department of Health Science, University of Milano-Bicocca, Milano, Italy.
+FAU - Grassi, Guido
+AU  - Grassi G
+AUID- ORCID: http://orcid.org/0000-0003-1922-6547
+AD  - Department of Health Science, University of Milano-Bicocca, Milano, Italy.
+AD  - Department of Clinical Sciences and Community Health, Fondazione Ospedale
+      Maggiore Policlinico di Milano, University of Milano, Milano, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180125
+PL  - United States
+TA  - J Clin Hypertens (Greenwich)
+JT  - Journal of clinical hypertension (Greenwich, Conn.)
+JID - 100888554
+OTO - NOTNLM
+OT  - arterial hypertension
+OT  - function
+OT  - right ventricle
+OT  - strain
+EDAT- 2018/01/26 06:00
+MHDA- 2018/01/26 06:00
+CRDT- 2018/01/26 06:00
+PHST- 2017/09/11 00:00 [received]
+PHST- 2017/10/22 00:00 [revised]
+PHST- 2017/11/07 00:00 [accepted]
+PHST- 2018/01/26 06:00 [entrez]
+PHST- 2018/01/26 06:00 [pubmed]
+PHST- 2018/01/26 06:00 [medline]
+AID - 10.1111/jch.13186 [doi]
+PST - aheadofprint
+SO  - J Clin Hypertens (Greenwich). 2018 Jan 25. doi: 10.1111/jch.13186.
+
+PMID- 29370349
+OWN - NLM
+STAT- Publisher
+LR  - 20180125
+IS  - 1873-734X (Electronic)
+IS  - 1010-7940 (Linking)
+DP  - 2018 Jan 22
+TI  - Left atrial appendage resection can be performed minimally invasively with good
+      clinical and echocardiographic outcomes without any severe risk.
+LID - 10.1093/ejcts/ezx506 [doi]
+AB  - OBJECTIVES: The adverse effects of left atrial appendage (LAA) closure have not
+      yet been evaluated. This study aimed to prove the safety and low invasiveness of 
+      LAA resection through our thoracoscopic stand-alone left atrial appendectomy
+      experience. METHODS: Eighty-seven patients [mean age 68 +/- 9 years, 68 men
+      (78%), mean congestive heart failure, hypertension, age >/= 75 years, diabetes
+      mellitus, prior stroke or transient ischaemic attack to thromboembolism, vascular
+      disease, age 65-74 years and sex category (CHA2DS2-VASc) score 2.9 +/- 1.6
+      points] who had undergone thoracoscopic left atrial appendectomy were selected.
+      The operative and clinical data (left atrial diameter, left ventricular diameter 
+      of systole/diastole, ejection fraction, brain natriuretic peptide and human
+      atrial natriuretic peptide) were evaluated. All procedures were performed without
+      cardiopulmonary bypass or cardiac arrest. The LAA was resected with an endoscopic
+      linear cutter device. Except for 1 case with severe pleural adhesion, all
+      operations were performed thoracoscopically. RESULTS: The preoperative and
+      postoperative data are as follows: left atrial diameter 43 +/- 5 mm and 43 +/- 5 
+      mm (P = 0.8); left ventricular diameter of systole/diastole 50 +/- 5/35 +/- 6 mm 
+      and 48 +/- 5/34 +/- 6 mm (P < 0.01); ejection fraction 57 +/- 10% and 56 +/- 10% 
+      (P = 0.11); brain natriuretic peptide 97 +/- 77 pg/ml and 72 +/- 65 pg/ml (P <
+      0.01) and human atrial natriuretic peptide 73 +/- 64 pg/ml and 96 +/- 67 pg/ml (P
+      = 0.03), respectively. The mean volume of bleeding in the operation was very
+      small (<10 ml). The mean length of postoperative in-hospital stay was 3.8 +/- 1.8
+      days. All the patients were discharged while maintaining their preoperative
+      activities of daily living without major complications. No thrombus or residual
+      stumps were detected during the 3-month postoperative computed tomography
+      follow-up. The perioperative heart function did not change significantly in this 
+      study. Bleeding with resection was minimal, and no rebleeding events occurred.
+      CONCLUSIONS: LAA resection did not affect negatively on the cardiac function and 
+      did not increase the risk of bleeding risk.
+FAU - Inoue, Takafumi
+AU  - Inoue T
+AD  - Department of Cardiac Surgery, University of Tokyo, Tokyo, Japan.
+AD  - Department of Cardiovascular Surgery, Tsukuba Memorial Hospital, Tsukuba, Japan.
+FAU - Suematsu, Yoshihiro
+AU  - Suematsu Y
+AD  - Department of Cardiovascular Surgery, Tsukuba Memorial Hospital, Tsukuba, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20180122
+PL  - Germany
+TA  - Eur J Cardiothorac Surg
+JT  - European journal of cardio-thoracic surgery : official journal of the European
+      Association for Cardio-thoracic Surgery
+JID - 8804069
+OTO - NOTNLM
+OT  - Atrial fibrillation
+OT  - Thoracoscopic left atrial appendectomy
+EDAT- 2018/01/26 06:00
+MHDA- 2018/01/26 06:00
+CRDT- 2018/01/26 06:00
+PHST- 2017/09/12 00:00 [received]
+PHST- 2017/12/20 00:00 [accepted]
+PHST- 2018/01/26 06:00 [entrez]
+PHST- 2018/01/26 06:00 [pubmed]
+PHST- 2018/01/26 06:00 [medline]
+AID - 4821885 [pii]
+AID - 10.1093/ejcts/ezx506 [doi]
+PST - aheadofprint
+SO  - Eur J Cardiothorac Surg. 2018 Jan 22. pii: 4821885. doi: 10.1093/ejcts/ezx506.
+
+PMID- 29369739
+OWN - NLM
+STAT- Publisher
+LR  - 20180125
+IS  - 1522-1601 (Electronic)
+IS  - 0161-7567 (Linking)
+DP  - 2018 Jan 25
+TI  - Organ-level right ventricular dysfunction with preserved Frank-Starling mechanism
+      in a mouse model of pulmonary arterial hypertension.
+LID - 10.1152/japplphysiol.00725.2017 [doi]
+AB  - Pulmonary arterial hypertension (PAH) is a rapidly fatal disease in which
+      mortality is due to right ventricular (RV) failure. It is unclear whether RV
+      dysfunction initiates at the organ-level or the subcellular-level or both. We
+      hypothesized that chronic pressure overload-induced RV dysfunction begins at the 
+      organ level with preserved Frank-Starling mechanism in myocytes. To test this
+      hypothesis, we induced PAH with SUGEN+hypoxia (HySu) in mice and measured RV
+      whole-organ and subcellular functional changes by in vivo pressure-volume
+      measurements and in vitro trabeculae length-tension measurements, respectively at
+      multiple time points for up to 56 days. We observed progressive changes in RV
+      function at the organ-level: in contrast to early PAH (14-day HySu), in late PAH 
+      (56-day HySu) ejection fraction and ventricular-vascular coupling were decreased.
+      At the subcellular level, direct measurements of myofilament contraction showed
+      that RV contractile force was similarly increased at any stage of PAH
+      development. Moreover, cross-bridge kinetics were not changed and
+      length-dependence of force development (Frank-Starling relation) were not
+      different from baseline in any PAH group. Histological examinations confirmed
+      increased cardiomyocyte cross-section area and decreased von Willebrand Factor
+      expression in RVs with PAH. In summary, RV dysfunction developed at the organ
+      level with preserved Frank-Starling mechanism in myofilaments, and these results 
+      provide novel insight into the development of RV dysfunction, which is critical
+      to understanding the mechanisms of RV failure.
+FAU - Wang, Zhijie
+AU  - Wang Z
+AD  - Mechanical Engineering, Colorado State University, United States.
+FAU - Patel, Jitandrakumar R
+AU  - Patel JR
+AD  - Cell and Regenerative Biology, University of Wisconsin School of Medicine and
+      Public Health, United States.
+FAU - Schreier, David A
+AU  - Schreier DA
+AD  - Biomedical Engineering, University of Wisconsin - Madison, United States.
+FAU - Hacker, Timothy A
+AU  - Hacker TA
+AD  - Medicine, University of Wisconsin-Madison, United States.
+FAU - Moss, Richard L
+AU  - Moss RL
+AD  - Dept Cell & Regen Biology, University of Wisconsin Medical School, United States.
+FAU - Chesler, Naomi C
+AU  - Chesler NC
+AD  - Biomedical Engineering, University of Wisconsin, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20180125
+PL  - United States
+TA  - J Appl Physiol (1985)
+JT  - Journal of applied physiology (Bethesda, Md. : 1985)
+JID - 8502536
+OTO - NOTNLM
+OT  - hypertrophy
+OT  - myocyte morphology
+OT  - right heart failure
+OT  - skinned trabeculae
+OT  - ventricular-vascular coupling
+EDAT- 2018/01/26 06:00
+MHDA- 2018/01/26 06:00
+CRDT- 2018/01/26 06:00
+PHST- 2018/01/26 06:00 [entrez]
+PHST- 2018/01/26 06:00 [pubmed]
+PHST- 2018/01/26 06:00 [medline]
+AID - 10.1152/japplphysiol.00725.2017 [doi]
+PST - aheadofprint
+SO  - J Appl Physiol (1985). 2018 Jan 25. doi: 10.1152/japplphysiol.00725.2017.
+
+PMID- 29368958
+OWN - NLM
+STAT- Publisher
+LR  - 20180125
+IS  - 1473-4877 (Electronic)
+IS  - 0300-7995 (Linking)
+DP  - 2018 Jan 25
+TI  - The prevalence of hyperkalemia in the United States.
+PG  - 1-18
+LID - 10.1080/03007995.2018.1433141 [doi]
+AB  - OBJECTIVE: The retrospective study aimed to estimate prevalence of hyperkalemia
+      using a large US commercial claims database. METHODS: Adults with serum potassium
+      lab data (2010 to 2014) and >/=1 calendar year of data were included from a large
+      US commercial claims database. Hyperkalemia was defined as >/=2 serum potassium
+      measurements >5.0 mEq/L or one hyperkalemia diagnosis code [ICD-9-CM, 276.7)] or 
+      one sodium polystyrene sulfonate fill. Hyperkalemia prevalence was estimated for 
+      the overall population and subgroups with hyperkalemia-related comorbidities by
+      calendar year. Hyperkalemia prevalence was also standardized to the US population
+      to estimate the number of US adults with hyperkalemia. RESULTS: The analysis
+      included 2,270,635 patients (2010-2014). The annual prevalence of hyperkalemia in
+      the overall population was 1.57% in 2014, with higher rates observed in patients 
+      with chronic kidney disease (CKD), heart failure, diabetes, and hypertension.
+      Among patients with CKD and/or heart failure, the 2014 annual prevalence was
+      6.35%. Among patients with hyperkalemia, 48.43% had CKD and/or heart failure in
+      2014. The prevalence of hyperkalemia was higher in patients with more severe CKD,
+      as well as older patients and men. Extrapolating those results to the US
+      population supports that 1.55% or 3.7 million US adults had hyperkalemia in 2014.
+      CONCLUSIONS: An estimated 3.7 million US adults had hyperkalemia in 2014, and
+      this prevalence rate has increased since 2010. In patients with CKD and/or heart 
+      failure, the annual prevalence of hyperkalemia was 6.35% in 2014, and about half 
+      of all patients with hyperkalemia have either CKD and/or heart failure.
+FAU - Betts, Keith A
+AU  - Betts KA
+AD  - a Analysis Group, Inc. , Boston , MA , USA.
+FAU - Woolley, J Michael
+AU  - Woolley JM
+AD  - b ZS Pharma, a member of the AstraZeneca Group , San Mateo , CA , USA.
+FAU - Mu, Fan
+AU  - Mu F
+AD  - a Analysis Group, Inc. , Boston , MA , USA.
+FAU - McDonald, Evangeline
+AU  - McDonald E
+AD  - a Analysis Group, Inc. , Boston , MA , USA.
+FAU - Tang, Wenxi
+AU  - Tang W
+AD  - a Analysis Group, Inc. , Boston , MA , USA.
+FAU - Wu, Eric Q
+AU  - Wu EQ
+AD  - a Analysis Group, Inc. , Boston , MA , USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20180125
+PL  - England
+TA  - Curr Med Res Opin
+JT  - Current medical research and opinion
+JID - 0351014
+OTO - NOTNLM
+OT  - Chronic Kidney Disease
+OT  - Heart Failure
+OT  - Hyperkalemia
+OT  - Prevalence
+EDAT- 2018/01/26 06:00
+MHDA- 2018/01/26 06:00
+CRDT- 2018/01/26 06:00
+PHST- 2018/01/26 06:00 [entrez]
+PHST- 2018/01/26 06:00 [pubmed]
+PHST- 2018/01/26 06:00 [medline]
+AID - 10.1080/03007995.2018.1433141 [doi]
+PST - aheadofprint
+SO  - Curr Med Res Opin. 2018 Jan 25:1-18. doi: 10.1080/03007995.2018.1433141.
+
+PMID- 29368192
+OWN - NLM
+STAT- Publisher
+LR  - 20180125
+IS  - 0975-0711 (Electronic)
+IS  - 0254-8860 (Linking)
+DP  - 2018 Jan 24
+TI  - Cirrhotic cardiomyopathy is less prevalent in patients with Budd-Chiari syndrome 
+      than cirrhosis of liver.
+LID - 10.1007/s12664-017-0811-z [doi]
+AB  - BACKGROUND AND AIM: Cirrhotic cardiomyopathy (CCM) is associated with high
+      mortality after transjugular intrahepatic portosystemic shunt (TIPS) and liver
+      transplantation in patients with cirrhosis. There is no data about the prevalence
+      or impact of CCM in Budd-Chiari syndrome (BCS). We assessed the prevalence of CCM
+      in patients with BCS and its impact on outcome after radiological intervention.
+      METHODS: Thirty-three consecutive patients with BCS (15 men) and 33 controls with
+      hepatitis B-related cirrhosis (18 men, matched for Child-Pugh score) were
+      evaluated with baseline electrocardiography (ECG), echocardiography (ECHO) and
+      dobutamine stress ECHO, and ECG (DSE). The two groups were compared for
+      prevalence of CCM. Patients with BCS with and without CCM were assessed for
+      development of heart failure, duration of intensive care unit (ICU) stay, and
+      in-hospital mortality immediately after radiological intervention. RESULTS: Fewer
+      patients with BCS had CCM (7/21 vs. 21/33; p = 0.001, OR-0.16, CI [0.05-0.5]),
+      diastolic dysfunction (DD) (0/33 vs. 6/33; p = 0.01, OR-0.06, CI [0.00-1.1]), and
+      prolonged QTc interval (5/33 vs.17/33; p = 0.001, OR-0.16, CI [0.05-0.5]) despite
+      correction for age. Patients with BCS had lower end-systolic and end-diastolic
+      volumes of left and right ventricles. None of the 19 patients (five with CCM)
+      with BCS undergoing radiological intervention (12 TIPS, 4 inferior vena cava, and
+      3 hepatic vein stenting) developed heart failure or had prolonged ICU stay. There
+      was no in-hospital mortality. CONCLUSION: Patients with BCS have lower frequency 
+      of CCM as compared to patients with cirrhosis. CCM may not adversely affect
+      outcomes after radiological interventions.
+FAU - Shukla, Akash
+AU  - Shukla A
+AD  - Department of Gastroenterology, Seth G S Medical College and KEM Hospital, Room
+      1120, Multistory Building, 11th floor, Parel, Mumbai, 400 012, India.
+      akash@kem.edu.
+FAU - Bhatt, Pratin
+AU  - Bhatt P
+AD  - Department of Gastroenterology, Seth G S Medical College and KEM Hospital, Room
+      1120, Multistory Building, 11th floor, Parel, Mumbai, 400 012, India.
+FAU - Gupta, Deepak Kumar
+AU  - Gupta DK
+AD  - Department of Gastroenterology, Seth G S Medical College and KEM Hospital, Room
+      1120, Multistory Building, 11th floor, Parel, Mumbai, 400 012, India.
+FAU - Modi, Tejas
+AU  - Modi T
+AD  - Department of Gastroenterology, Seth G S Medical College and KEM Hospital, Room
+      1120, Multistory Building, 11th floor, Parel, Mumbai, 400 012, India.
+FAU - Patel, Jatin
+AU  - Patel J
+AD  - Department of Gastroenterology, Seth G S Medical College and KEM Hospital, Room
+      1120, Multistory Building, 11th floor, Parel, Mumbai, 400 012, India.
+FAU - Phadke, Milind
+AU  - Phadke M
+AD  - Department of Cardiology, Seth G S Medical College and KEM Hospital, Parel,
+      Mumbai, 400 012, India.
+FAU - Rathod, Krantikumar
+AU  - Rathod K
+AD  - Department of Interventional Radiology, Seth G S Medical College and KEM
+      Hospital, Parel, Mumbai, 400 012, India.
+FAU - Meshram, Megha
+AU  - Meshram M
+AD  - Department of Gastroenterology, Seth G S Medical College and KEM Hospital, Room
+      1120, Multistory Building, 11th floor, Parel, Mumbai, 400 012, India.
+FAU - Bhatia, S J
+AU  - Bhatia SJ
+AD  - Department of Gastroenterology, Seth G S Medical College and KEM Hospital, Room
+      1120, Multistory Building, 11th floor, Parel, Mumbai, 400 012, India.
+LA  - eng
+PT  - Journal Article
+DEP - 20180124
+PL  - India
+TA  - Indian J Gastroenterol
+JT  - Indian journal of gastroenterology : official journal of the Indian Society of
+      Gastroenterology
+JID - 8409436
+OTO - NOTNLM
+OT  - Hepatic vein outflow tract obstruction
+OT  - Hepatic vein thrombosis
+OT  - Portal hypertension
+OT  - Refractory ascites
+EDAT- 2018/01/26 06:00
+MHDA- 2018/01/26 06:00
+CRDT- 2018/01/26 06:00
+PHST- 2017/04/28 00:00 [received]
+PHST- 2017/12/20 00:00 [accepted]
+PHST- 2018/01/26 06:00 [entrez]
+PHST- 2018/01/26 06:00 [pubmed]
+PHST- 2018/01/26 06:00 [medline]
+AID - 10.1007/s12664-017-0811-z [doi]
+AID - 10.1007/s12664-017-0811-z [pii]
+PST - aheadofprint
+SO  - Indian J Gastroenterol. 2018 Jan 24. pii: 10.1007/s12664-017-0811-z. doi:
+      10.1007/s12664-017-0811-z.
