@@ -1,0 +1,8 @@
+1 Here is a line of text that we will look at
+2 This is another line of text
+3 A line of text occurs a lot in this example
+4 Text mining often deals with a line of text
+5 It can be interesting to do text mining
+6 This is a data file with more than one line of text on text mining
+7 Phrase text mining is a type of text mining that deals with phrases
+8 It is interesting to do phrase text mining

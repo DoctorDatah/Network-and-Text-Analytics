@@ -62,6 +62,7 @@ rt
 class(rt)             #It's a readtext object, a type of data frame
 as.data.frame(rt)
 dim(rt)               #1 row, 2 columns
+colnames(rt)
 rt$doc_id
 rt$text
 
@@ -150,7 +151,7 @@ inspect(co[[2]])
 
 #Direct route using DirSource
 dir.exists("TextData/tmData2")
-co=VCorpus(DirSource("../tmData2"))
+co=VCorpus(DirSource("TextData/tmData2"))
 #Investigate corpus
 meta(co)                        #Empty
 meta(co,type="corpus")          #Empty
@@ -307,7 +308,7 @@ strsplit(getwd(),split=NULL)         #Split into characters
 ###################################################################################
 # Creating a Term-Document Matrix
 ###################################################################################
-co=VCorpus(DirSource("../tmData2"))
+co=VCorpus(DirSource("TextData/tmData2"))
 co
 inspect(co[[1]])
 meta(co[[1]])

@@ -1,0 +1,1 @@
+Here we create a little story in order to TEST how Text Mining works. This 1 example is part of a directory with text files which will be used to create plain text documents to be combined into a volatile corpus. And here are some numbers: 34 45, 308.

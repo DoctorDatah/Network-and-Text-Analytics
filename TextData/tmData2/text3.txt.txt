@@ -1,0 +1,6 @@
+Here is some text.
+We have text here.
+We are testing mining of text.
+Text mining is something we need to test.
+If you fail to test your text mining, then what happens?
+Text mining can go very WRONG.

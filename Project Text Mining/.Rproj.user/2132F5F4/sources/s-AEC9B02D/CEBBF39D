@@ -1,0 +1,25 @@
+{
+    "id": "CEBBF39D",
+    "path": "~/GitHub/Network-and-Text-Analytics-/Project Text Mining/lib/SentimentAnalysis_Utils.R",
+    "project_path": "lib/SentimentAnalysis_Utils.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1606867973657.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "29,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1606870499,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1606870499298,
+    "read_only": false,
+    "read_only_alternatives": []
+}
