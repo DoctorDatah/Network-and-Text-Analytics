@@ -1,3 +1,0 @@
-"name" "description"
-"1" "Linkedin malik" "My LinkedIn 1st and mutual connections. Their position title and gender.
-"
